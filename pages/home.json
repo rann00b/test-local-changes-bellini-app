@@ -4,5 +4,35 @@
   "url": "/home",
   "params": {},
   "variables": [],
-  "children": []
+  "children": [
+    {
+      "name": "h1",
+      "nodeName": "h1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "9YYGEA"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "Hello There",
+          "evaluate": false
+        }
+      ]
+    }
+  ]
 }
