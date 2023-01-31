@@ -1,7 +1,7 @@
 {
-  "name": "home",
+  "name": "about",
   "type": "page",
-  "url": "/home",
+  "url": "/about",
   "params": {},
   "variables": [],
   "children": [
@@ -12,7 +12,7 @@
       "attributes": [
         {
           "property": "data-id",
-          "value": "9YYGEA"
+          "value": "rQ4ZqR"
         }
       ],
       "classList": [],
@@ -29,7 +29,7 @@
         {
           "name": "text",
           "nodeName": "text",
-          "textContent": "Hi There",
+          "textContent": "About",
           "evaluate": false
         }
       ]
